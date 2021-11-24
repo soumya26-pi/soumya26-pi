@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @soumya26-pi
-- 👀 I’m interested in ...Machine learning and Artificial Intelligence 
-- 🌱 I’m currently learning ...Data science 
+- 👀 I’m interested in ...Machine learning and Artificial Intelligence and Drone automation
+- 🌱 I’m currently learning ...Data science,Artificial inteligence and Computer vision
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
